@@ -1,0 +1,8 @@
+- menggunakan aplikasi blynk
+- wifi conection
+- Control and monitoring
+- features :
+	1. Control RGB
+	2. Terminal
+	3. DHT22
+	4. button lamp
